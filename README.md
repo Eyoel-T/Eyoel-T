@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hi 👋, I'm Eyoel Tewdors!
 
-<!--
-**Eyoel-T/Eyoel-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm Eyoel Tewdors a Full-Stack Developer. Who loves programming and ready to learn new things anytime.
+* 🖥️  See my portfolio at [eyoeltewodros.ml](http://eyoeltewodros.ml)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+
+**📌 Backend Development**
+- Server-Side Node.js,Express.js,
+- Database: MySQL , MongoDB 
+
+**🤖 Software Development**
+- Desktop: Tauri,Electron.js
+- Mobile Development: React Native / Expo
+
+**🎨 Frontend Development**
+- React.js 
+- JavaScript / ES6 / TypeScript / 
+- CSS / SASS / SCSS
+
+**🎁 Other Skills**
+- Wireframe Design: Figma / Adobe XD
+- Version Control: Git, GitHub
+
+
+
+
