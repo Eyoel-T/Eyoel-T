@@ -13,7 +13,6 @@ I'm Eyoel Tewdors a Full-Stack Developer. Who loves programming and ready to lea
 
 **🤖 Software Development**
 - Desktop: Tauri,Electron.js
-- Mobile Development: React Native / Expo
 
 **🎨 Frontend Development**
 - React.js 
