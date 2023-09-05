@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 I'm Eyoel Tewdors a Full-Stack Developer. Who loves programming and ready to learn new things anytime.
-* 🖥️  See my portfolio at [eyoeltewodros.tk](http://eyoeltewodros.tk)
+* 🖥️  See my portfolio at [eyoeltewodros.com](http://eyoeltewodros.com)
 
 ## 🛠 Skills
 
