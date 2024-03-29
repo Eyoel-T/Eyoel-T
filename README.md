@@ -15,9 +15,10 @@ I'm Eyoel Tewdors a Full-Stack Developer. Who loves programming and ready to lea
 - Desktop: Tauri,Electron.js
 
 **🎨 Frontend Development**
-- React.js 
+- React.js
+- Next.js
 - JavaScript / ES6 / TypeScript / 
-- CSS / SASS / SCSS
+- CSS / SASS / SCSS / Tailwind CSS
 
 **🎁 Other Skills**
 - Wireframe Design: Figma / Adobe XD
