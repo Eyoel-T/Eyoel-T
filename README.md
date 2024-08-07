@@ -22,7 +22,7 @@ I'm Eyoel Tewdors a Full-Stack Developer. Who loves programming and ready to lea
 
 **🎁 Other Skills**
 - Wireframe Design: Figma / Adobe XD
-- Version Control: Git, GitHub
+- Version Control: Git, GitHub, GitLab
 
 
 
