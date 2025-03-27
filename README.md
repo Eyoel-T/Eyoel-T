@@ -21,7 +21,7 @@ I'm Eyoel Tewdors a Full-Stack Developer.
 - CSS / SASS / SCSS / Tailwind CSS
 
 **🎁 Other Skills**
-- Wireframe Design: Figma / Adobe XD
+- Wireframe Design: Figma
 - Version Control: Git, GitHub, GitLab
 
 
