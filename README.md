@@ -12,13 +12,14 @@ I'm Eyoel Tewdors a Full-Stack Developer.
 - Database: MySQL , MongoDB 
 
 **🤖 Software Development**
-- Desktop: Tauri,Electron.js
+- Desktop App: Tauri
+- Mobile App: React Native
 
 **🎨 Frontend Development**
 - React.js
 - Next.js
-- JavaScript / ES6 / TypeScript / 
-- CSS / SASS / SCSS / Tailwind CSS
+- JavaScript / TypeScript 
+- CSS / SCSS / Tailwind CSS
 
 **🎁 Other Skills**
 - Wireframe Design: Figma
